@@ -1,3 +1,4 @@
+package Spiel;
 
 public class Wuerfel {
 
