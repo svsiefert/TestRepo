@@ -6,6 +6,7 @@ public class Spielfeld {
 		//int a = 5;
 		//String b = "hallo";
 		//long c = 20000;
+		//TEST
 
 	}
 
